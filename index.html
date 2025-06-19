@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo addEventListener</title>
+</head>
+<body>
+    <h1>Manejo de Eventos con addEventListener</h1>
+
+    <!-- Botón con evento click -->
+    <button id="miBoton">Haz clic aquí</button>
+
+    <hr>
+
+    <!-- Formulario con evento submit -->
+    <form id="miFormulario">
+        <label for="nombre">Escribe tu nombre:</label><br>
+        <input type="text" id="nombre" name="nombre"><br><br>
+        <button type="submit">Enviar</button>
+    </form>
+    <p id="resultado"></p>
+
+    <hr>
+
+    <!-- Selector de color -->
+    <label for="colorSelector">Cambia el color de fondo:</label><br>
+    <select id="colorSelector">
+        <option value="">-- Selecciona un color --</option>
+        <option value="lightblue">Azul claro</option>
+        <option value="lightgreen">Verde claro</option>
+        <option value="pink">Rosa</option>
+    </select>
+
+    <script src="script.js"></script>
+</body>
+</html>
