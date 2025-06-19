@@ -1,10 +1,10 @@
-# 📘 Introducción a JavaScript - Básico
+#  Introducción a JavaScript - Básico
 
 Esta es una guía básica para principiantes con los conceptos fundamentales de **JavaScript**. Incluye ejemplos simples y explicaciones claras para comenzar a programar desde cero.
 
 ---
 
-## 📌 ¿Qué encontrarás aquí?
+##  ¿Qué encontrarás aquí?
 
 - Conceptos básicos de variables, tipos de datos y operaciones.
 - Estructuras condicionales y bucles.
@@ -13,7 +13,7 @@ Esta es una guía básica para principiantes con los conceptos fundamentales de 
 
 ---
 
-## ✅ Ejecutar el ejemplo
+##  Ejecutar el ejemplo
 
 También incluimos un archivo `script.js` con ejemplos prácticos que puedes probar fácilmente.
 
